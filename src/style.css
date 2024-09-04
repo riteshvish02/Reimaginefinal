@@ -1,0 +1,56 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body
+{
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    background-color: #000;
+}
+@font-face {
+    font-family: nike;
+    src: url('../static/fonts/Tektur-Variable.ttf');
+}
+@font-face {
+    font-family: "por3";
+    src: url("../static/fonts/porsche-next-w-la-bold.min.6b20b9525a53943efc0131a2def13eab.ttf");
+}
+@font-face {
+    font-family: "por1";
+    src: url("../static/fonts/porsche-next-w-la-regular.min.b8f1c203bd2ac5334247025236ba8d86.ttf");
+}
+@font-face {
+    font-family: "por2";
+    src: url("../static/fonts/porsche-next-w-la-semi-bold.min.b5f6fca7225aa73578f65320bcf79b45\ \(1\).ttf");
+}
+
+
+
+#main{
+    position: relative;
+}
+
+
+
+
+
+
+
+.webgl
+{
+   width: 100%;
+   height: 100vh;
+   overflow: hidden;
+}
+
+
+
+
+
+
